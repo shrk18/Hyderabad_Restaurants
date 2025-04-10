@@ -1,15 +1,22 @@
 # Hyderabad Restaurants
 
-Explore some of the best restaurants in Hyderabad offering Italian, Indian, and Mexican cuisines.
+## Italian Cuisine
+| Restaurant Name       | Location          | Specialty Dish       |
+|-----------------------|-------------------|----------------------|
+| Ottimo Cucina Italiana| Banjara Hills     | Margherita Pizza     |
+| Little Italy          | Jubilee Hills     | Ravioli              |
+| Prego                | Hi-Tech City      | Lasagna              |
 
-| Cuisine   | Restaurant Name         | Address/Details                                                                 |
-|-----------|-------------------------|---------------------------------------------------------------------------------|
-| Italian   | Ottimo Cucina Italiana  | ITC Kohenur, Madhapur, Hyderabad                                               |
-| Italian   | Prego                   | The Westin, Mindspace IT Park, Hitech City, Hyderabad                          |
-| Italian   | Little Italy            | Jubilee Hills, Hyderabad                                                       |
-| Indian    | Bidri                   | Hyderabad Marriott Hotel & Convention Centre, Tank Bund Road, Hyderabad        |
-| Indian    | Chutneys                | Multiple Locations in Hyderabad                                                |
-| Indian    | Paradise                | Multiple Locations in Hyderabad                                                |
-| Mexican   | Lemerian Workin Cafe    | Banjara Hills, Hyderabad                                                       |
-| Mexican   | La Cantina              | Novotel Hyderabad Convention Centre, Hitech City, Hyderabad                    |
-| Mexican   | Mexicano Griller        | Jubilee Hills, Hyderabad                                                       |
+## Indian Cuisine
+| Restaurant Name       | Location          | Specialty Dish       |
+|-----------------------|-------------------|----------------------|
+| Bidri                | Banjara Hills     | Hyderabadi Biryani   |
+| Chutneys             | Jubilee Hills     | South Indian Thali   |
+| Paradise             | Secunderabad      | Dum Biryani          |
+
+## Mexican Cuisine
+| Restaurant Name       | Location          | Specialty Dish       |
+|-----------------------|-------------------|----------------------|
+| Lemerian Workin Cafe | Banjara Hills     | Tacos                |
+| La Cantina           | Jubilee Hills     | Nachos               |
+| Mexicano Grille      | Hi-Tech City      | Burritos             |
